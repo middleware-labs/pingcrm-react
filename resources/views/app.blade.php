@@ -21,7 +21,7 @@
                 defaultAttributes: {
                     "app.version": "1.0.0",
                 },
-                tracePropagationTargets: [/localhost:3000/i]
+                tracePropagationFormat: "w3c"
             })
         }
     </script>
