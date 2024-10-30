@@ -16,12 +16,11 @@
             Middleware.track({
                 serviceName: "pingcrm",
                 projectName: "pingcrm",
-                accountKey: "qrahdmheulnamujmetjwagwrozbmrwbpvasy",
-                target: "https://plo4e.middleware.io",
+                accountKey: "lneevcqdcnzccpdpbhelkxpjffdxeznkryvb",
+                target: "https://ruplp.middleware.io:443",
                 defaultAttributes: {
                     "app.version": "1.0.0",
                 },
-                tracePropagationFormat: "w3c"
             })
         }
     </script>
